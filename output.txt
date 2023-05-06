@@ -1,0 +1,12 @@
+timestamp:2023-05-01 13:45:22
+level:INFO
+module:users
+message:User profile updated
+timestamp:2023-05-02 09:30:30
+level:ERROR
+module:users
+message:Unable to load user profile: database connection error
+timestamp:2023-05-03 15:20:41
+level:WARN
+module:users
+message:User account suspended: Exceeded login attempts

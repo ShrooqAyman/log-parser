@@ -1,0 +1,5 @@
+[{ "level": "DEBUG", "Num messages": 1, "Avg length": 31.0 },
+    { "level": "INFO", "Num messages": 2, "Avg length": 24.5 },
+    { "level": "WARN", "Num messages": 2, "Avg length": 40.5 },
+    { "level": "ERROR", "Num messages": 4, "Avg length": 37.5 }
+]
